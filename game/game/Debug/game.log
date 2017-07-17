@@ -1,0 +1,6 @@
+﻿  game.c
+c:\users\z9701\documents\visual studio 2017\projects\game\game\game.c(43): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\z9701\documents\visual studio 2017\projects\game\game\game.c(82): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\z9701\documents\visual studio 2017\projects\game\game\game.c(261): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+  game.vcxproj -> C:\Users\z9701\documents\visual studio 2017\Projects\game\Debug\game.exe
+  game.vcxproj -> C:\Users\z9701\documents\visual studio 2017\Projects\game\Debug\game.pdb (Partial PDB)
