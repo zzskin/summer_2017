@@ -1,0 +1,9 @@
+﻿  game.c
+c:\users\z9701\desktop\game\game\game.c(30): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\z9701\desktop\game\game\game.c(63): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\z9701\desktop\game\game\game.c(69): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\z9701\desktop\game\game\game.c(92): warning C4552: “>=”: 运算符不起任何作用；应输入带副作用的运算符
+c:\users\z9701\desktop\game\game\game.c(247): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+c:\users\z9701\desktop\game\game\game.c(121): warning C4715: “OnGameTimer”: 不是所有的控件路径都返回值
+  game.vcxproj -> C:\Users\z9701\Desktop\game\Debug\game.exe
+  game.vcxproj -> C:\Users\z9701\Desktop\game\Debug\game.pdb (Partial PDB)
